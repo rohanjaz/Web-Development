@@ -37,7 +37,9 @@ p {
     float: left;
   }
   .col-lg {
-    width: 33.33%;
+    width: 32%;
+    margin-left: 0.66%;
+    margin-right: 0.66%;
   }
 }
 
@@ -47,9 +49,13 @@ p {
     float: left;
   }
   .col-md-1 {
-    width: 50%;
+    width: 49%;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
   }
   .col-md-2 {
-    width: 100%;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    width: 99%;
   }
 }
